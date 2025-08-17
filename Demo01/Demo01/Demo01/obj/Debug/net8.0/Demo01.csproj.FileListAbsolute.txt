@@ -1,0 +1,14 @@
+D:\Route[Backend-.NET]\Advanced C#_Tutorials\Demo01\Demo01\Demo01\obj\Debug\net8.0\Demo01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route[Backend-.NET]\Advanced C#_Tutorials\Demo01\Demo01\Demo01\obj\Debug\net8.0\Demo01.AssemblyInfoInputs.cache
+D:\Route[Backend-.NET]\Advanced C#_Tutorials\Demo01\Demo01\Demo01\obj\Debug\net8.0\Demo01.AssemblyInfo.cs
+D:\Route[Backend-.NET]\Advanced C#_Tutorials\Demo01\Demo01\Demo01\obj\Debug\net8.0\Demo01.csproj.CoreCompileInputs.cache
+D:\Route[Backend-.NET]\Advanced C#_Tutorials\Demo01\Demo01\Demo01\bin\Debug\net8.0\Demo01.exe
+D:\Route[Backend-.NET]\Advanced C#_Tutorials\Demo01\Demo01\Demo01\bin\Debug\net8.0\Demo01.deps.json
+D:\Route[Backend-.NET]\Advanced C#_Tutorials\Demo01\Demo01\Demo01\bin\Debug\net8.0\Demo01.runtimeconfig.json
+D:\Route[Backend-.NET]\Advanced C#_Tutorials\Demo01\Demo01\Demo01\bin\Debug\net8.0\Demo01.dll
+D:\Route[Backend-.NET]\Advanced C#_Tutorials\Demo01\Demo01\Demo01\bin\Debug\net8.0\Demo01.pdb
+D:\Route[Backend-.NET]\Advanced C#_Tutorials\Demo01\Demo01\Demo01\obj\Debug\net8.0\Demo01.dll
+D:\Route[Backend-.NET]\Advanced C#_Tutorials\Demo01\Demo01\Demo01\obj\Debug\net8.0\refint\Demo01.dll
+D:\Route[Backend-.NET]\Advanced C#_Tutorials\Demo01\Demo01\Demo01\obj\Debug\net8.0\Demo01.pdb
+D:\Route[Backend-.NET]\Advanced C#_Tutorials\Demo01\Demo01\Demo01\obj\Debug\net8.0\Demo01.genruntimeconfig.cache
+D:\Route[Backend-.NET]\Advanced C#_Tutorials\Demo01\Demo01\Demo01\obj\Debug\net8.0\ref\Demo01.dll

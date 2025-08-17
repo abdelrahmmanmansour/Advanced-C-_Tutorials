@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Route[Backend-.NET]\\Advanced C#_Tutorials\\Demo03\\Demo03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D73F0D9D-519D-48AE-B17D-F5831B524172}|Demo03\\Demo03.csproj|d:\\route[backend-.net]\\advanced c#_tutorials\\demo03\\demo03\\demo03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D73F0D9D-519D-48AE-B17D-F5831B524172}|Demo03\\Demo03.csproj|solutionrelative:demo03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Route[Backend-.NET]\\Advanced C#_Tutorials\\Demo03\\Demo03\\Demo03\\Program.cs",
+              "RelativeDocumentMoniker": "Demo03\\Program.cs",
+              "ToolTip": "D:\\Route[Backend-.NET]\\Advanced C#_Tutorials\\Demo03\\Demo03\\Demo03\\Program.cs",
+              "RelativeToolTip": "Demo03\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T15:10:52.739Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
